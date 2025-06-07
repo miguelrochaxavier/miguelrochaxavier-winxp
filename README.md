@@ -1,3 +1,1 @@
 # miguelrochaxavier-winxp
-
-Primeiro portfolio
