@@ -853,16 +853,19 @@ button {
 .linha-um {
     display: flex;
     width: 650px;
+    height: 50px;
 }
 
 .linha-dois {
     display: flex;
     width: 650px;
+    height: 50px;
 }
 
 .linha-tres {
     display: flex;
     width: 120px;
+    height: 50px;
 }
 
 .window-works {
