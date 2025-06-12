@@ -465,7 +465,7 @@ button {
     position: relative;
     width: 180px;
     height: 42px;
-    right: 1050px;
+    right: 840px;
     top: 5px;
     background: #1c47a3;
 }
@@ -474,7 +474,7 @@ button {
     position: relative;
     color: white;
     top: 1px;
-    right: 920px;
+    right: 700px;
     font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
     z-index: 999;
@@ -484,7 +484,7 @@ button {
 .open-prog2 img {
     position: relative;
     top: 10px;
-    right: 930px;
+    right: 715px;
     z-index: 999;
 }
 
